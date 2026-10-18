@@ -1,0 +1,16 @@
+PASS reject NaN without writing
+PASS reject infinite jump height
+PASS reject negative gravity
+PASS reject fractional jump count
+PASS accept current upgraded grapple count
+PASS reject unknown feature
+PASS read real process memory
+PASS write real process memory
+PASS invalid read fails explicitly
+PASS restore first original after repeated updates
+PASS restore one bit without clobbering other flags
+PASS do not restore a replaced object
+PASS uncertain identity retains originals for successful retry
+PASS conflicting patches are refused
+PASS restore all independent patches
+15 passed, 0 failed

@@ -1,0 +1,36 @@
+# Local development history, personal saves, and delivered packages
+/.local/
+/work/
+/outputs/
+/dist/
+/docs/superpowers/
+
+# Generated binaries and IDE files
+**/bin/
+**/obj/
+.vs/
+.vscode/
+*.exe
+*.dll
+*.pdb
+*.user
+*.suo
+*.log
+__pycache__/
+*.pyc
+
+# Credentials and local settings
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+hosts.yml
+settings.txt
+
+# Player data must remain local
+*.sav
+steam_autocloud.vdf
+GameUserSettings.ini
+desktop.ini
+Thumbs.db

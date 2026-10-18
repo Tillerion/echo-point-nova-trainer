@@ -1,0 +1,15 @@
+PASS manaRate apply, keep and restore
+PASS speed apply, keep and restore
+PASS jumpHeight apply, keep and restore
+PASS gravity apply, keep and restore
+PASS maximum grapple count and refill
+PASS jump count, unlimited, return to custom count and original
+PASS hook range and all rope lengths restore
+PASS adrenaline set and persistent refill
+PASS low mana, refill, unlimited and no writes after disable
+PASS low health, heal, damage flag and flag restoration
+PASS set ammo synchronizes native, blueprint and first person proxy
+PASS unlimited ammo and stop refilling
+PASS unlimited grapple replenishes real player
+PASS reset all settings clears patches
+14 passed, 0 failed

@@ -1,0 +1,37 @@
+{
+  "grapple_target_distance_m": 184.32755303755724,
+  "grapple_active_sample_count": 89,
+  "grapple_first": {
+    "t": 0.0,
+    "position": [
+      -5427.62060546875,
+      -23900.0,
+      3819.15771484375
+    ],
+    "grapple_state": 2,
+    "grapple_point": [
+      11100.0,
+      -23900.0,
+      3949.15625
+    ]
+  },
+  "grapple_last": {
+    "t": 1.801,
+    "position": [
+      10779.2099609375,
+      -23900.0,
+      3819.15771484375
+    ],
+    "grapple_state": 2,
+    "grapple_point": [
+      11100.0,
+      -23900.0,
+      3949.15625
+    ]
+  },
+  "jump_sample_count": 1952,
+  "max_consecutive_jump_count": 5,
+  "jump_original_max_count": 4,
+  "jump_test_gravity": 0.2,
+  "jump_max_altitude_m": 824.944609375
+}

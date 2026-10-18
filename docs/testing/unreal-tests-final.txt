@@ -1,0 +1,5 @@
+Local player -> BP_GLPC_C -> BP_Human_Player_C
+HP 3; shield 10 / 10
+Mana 100; adrenaline 100
+Jump 4; gravity 4
+PASS verified engine properties, private getter signatures, local player ownership, serial protection and solo world
